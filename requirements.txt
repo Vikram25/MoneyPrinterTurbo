@@ -1,7 +1,7 @@
 # Keep legacy pip install support; primary deps moved to pyproject.toml / uv.lock.
 moviepy==2.2.1
 streamlit==1.59.1
-starlette==1.2.1
+starlette==1.3.1
 streamlit-tour==1.1.0
 edge_tts==7.3.1
 fastapi==0.136.3
